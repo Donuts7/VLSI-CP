@@ -1,0 +1,12 @@
+width = 12;
+
+n_circuits = 8;
+
+circuit_x = array1d(1..8, [3, 3, 3, 3, 3, 3, 3, 6]);
+
+circuit_y = array1d(1..8, [3, 4, 5, 6, 7, 8, 9, 3]);
+
+opt_height = 12;
+
+max_y = 9;
+
